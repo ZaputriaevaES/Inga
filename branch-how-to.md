@@ -8,5 +8,9 @@
 	`git checkout name`
 3. Далее работаем как с обычным репозиторием
 
+4. Чтобы запушить ветку на Github 
+	`git push --set-upstream origin name`
+
+ 
 
 
